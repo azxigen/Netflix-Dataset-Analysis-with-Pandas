@@ -54,3 +54,11 @@ Using **Python (Pandas in Jupyter Notebook)**, we explore content distribution, 
 ## ✅ Conclusion
 This project demonstrates how real-world datasets can be analyzed using **Python and Pandas**.  
 It builds a foundation for deeper exploration with **visualizations and advanced analytics**.  
+
+---
+
+## 📂 Dataset
+The dataset used in this project is [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows).
+
+⚠️ Note: The dataset file (`netflix_titles.csv`) is not included in this repository due to size.  
+Please download it manually from Kaggle and place it in the project folder before running the notebook.
