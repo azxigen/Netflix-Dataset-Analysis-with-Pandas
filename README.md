@@ -45,9 +45,49 @@ Using **Python (Pandas in Jupyter Notebook)**, we explore content distribution, 
 
 ## 🔮 Future Improvements
 - Add **data visualizations** using Matplotlib / Seaborn.  
-- Build an **interactive dashboard** with Streamlit or Power BI.  
+- ~~Build an **interactive dashboard** with Streamlit or Power BI.~~  
 - Perform **sentiment analysis** on descriptions.  
 - Compare Netflix dataset with other OTT platforms.  
+
+---
+
+# Netflix Data Analysis & Dashboard
+
+Exploration and visualization of Netflix content trends using Python (Pandas) and Power BI.
+
+## Overview
+- **Part 1: Exploratory Data Analysis (Python)**  
+  Cleaning and analyzing Netflix dataset to understand content by type, release years, genres, and countries.
+
+- **Part 2: Interactive Dashboard (Power BI)**  
+  Visual storytelling of Netflix content trends (2008–2021) with charts, cards, slicers, and KPI visuals.
+
+## Files
+| File | Description |
+|------|-------------|
+| `netflix_titles.csv` | Raw data from Kaggle |
+| `eda.ipynb` | Data cleaning and analysis in Jupyter |
+| `Netflix_Dashboard.pbix` | Power BI interactive dashboard |
+| `screenshots/dashboard.png` | Dashboard preview |
+
+## Preview
+![Dashboard Preview](screenshots/dashboard.png)
+
+## Highlights
+- Top 10 countries producing Netflix content
+- Distribution: Movies vs TV Shows
+- Growth trend of titles over time
+- Genre breakdown and key metrics (Total Titles, Total Movies, etc.)
+
+## How to Open
+1. Clone this repo  
+2. Open `Netflix_Dashboard.pbix` with Power BI Desktop  
+3. Explore visuals and filters
+
+---
+
+* Show some ⭐ if you liked this project! *
+
 
 ---
 
