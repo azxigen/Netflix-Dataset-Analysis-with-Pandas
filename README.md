@@ -66,12 +66,12 @@ Exploration and visualization of Netflix content trends using Python (Pandas) an
 | File | Description |
 |------|-------------|
 | `netflix_titles.csv` | Raw data from Kaggle |
-| `eda.ipynb` | Data cleaning and analysis in Jupyter |
-| `Netflix_Dashboard.pbix` | Power BI interactive dashboard |
-| `screenshots/dashboard.png` | Dashboard preview |
+| `Netflix_Titles.ipynb` | Data cleaning and analysis in Jupyter |
+| `Netflix Data Analysis Dashboard.pbix` | Power BI interactive dashboard |
+| `dashboard.png` | Dashboard preview |
 
 ## Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Netflix Dashboard Screenshot](dashboard.png)
 
 ## Highlights
 - Top 10 countries producing Netflix content
@@ -81,7 +81,7 @@ Exploration and visualization of Netflix content trends using Python (Pandas) an
 
 ## How to Open
 1. Clone this repo  
-2. Open `Netflix_Dashboard.pbix` with Power BI Desktop  
+2. Open `Netflix Data Analysis Dashboard.pbix` with Power BI Desktop  
 3. Explore visuals and filters
 
 ---
